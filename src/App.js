@@ -242,7 +242,7 @@ const App = () => {
         };
 
         filterList();
-    }, [search, state]);
+    }, [search]);
 
     return (
         <Container
